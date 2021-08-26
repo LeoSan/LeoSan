@@ -11,7 +11,10 @@ I am team Node , the immensity of things what can you do with this language (JS)
 - 😄 Pronouns: LeoSan
 - ⚡ Fun fact: I am very organized compulsive
 - My Suitcase -> https://leosan.github.io/
-- Last courses 2021 -> https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/blob/main/2021_diploma-fundamentos-programacion_PLATZI.pdf
+- Last courses 2021 ->[Certifiado General](https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/blob/main/2021_diploma-fundamentos-programacion_PLATZI.pdf)
+- Last courses Basic 2021 ->[Courses Basic](https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/tree/main/01_Basico)
+- Last courses Medium 2021 ->[Courses Medium](https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/tree/main/02_Intermedio)
+- Last courses Avance 2021 ->[Courses Avance](https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/tree/main/03_Avanzado)
 
 
 <p align="center"> 
