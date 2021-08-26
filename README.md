@@ -11,6 +11,7 @@ I am team Node , the immensity of things what can you do with this language (JS)
 - 😄 Pronouns: LeoSan
 - ⚡ Fun fact: I am very organized compulsive
 - My Suitcase -> https://leosan.github.io/
+- Last courses 2021 -> https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/blob/main/2021_diploma-fundamentos-programacion_PLATZI.pdf
 
 
 <p align="center"> 
