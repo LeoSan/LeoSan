@@ -1,8 +1,10 @@
 Hi everyone 👋, My name is LeonardCuenca ✨ but Call me Leo - I am Developer 
 
-I specialize in the server side, I really like the backend 😃
-I am currently a computer science student, 
-I am team Node , the immensity of things what can you do with this language (JS) is awesome. I like auto learning and teach with the example
+```
+I specialize in the server side, really like the backend 😃
+currently a computer science student about Node Js, wish 💪 reforce my knowledge 
+the immensity of things what can you do with this language (JS) is awesome. 
+```
 
 - 🔭 I’m currently working on integrate Node.Js with React metodology MERN
 - 🌱 I’m currently learning React, Raact Native, Laravel 
