@@ -12,19 +12,21 @@ I am team Node , the immensity of things what can you do with this language (JS)
 - ⚡ Fun fact: I am very organized compulsive
 - My Suitcase -> https://leosan.github.io/
 
+> Learning reforce 
 
 - 🎓 Last courses - 2021 ->[certificate General](https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/blob/main/2021_diploma-fundamentos-programacion_PLATZI.pdf)
 - Last courses Basic 2021 ->[Courses Basic](https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/tree/main/01_Basico)
 - Last courses Medium 2021 ->[Courses Medium](https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/tree/main/02_Intermedio)
 - Last courses Avance 2021 ->[Courses Avance](https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/tree/main/03_Avanzado)
 
-
+> Learning about PHP
 
 - 🎓 Last courses PHP - 2021 ->[certificate PHP  ](https://github.com/LeoSan/DesarrolloWebBackendPHP_PLATZI_2021/blob/main/2021_Diploma-Carrera-backend_php_PLATZI.pdf)
 - Last courses PHP Basic 2021 ->[Courses PHP Basic](https://github.com/LeoSan/DesarrolloWebBackendPHP_PLATZI_2021/tree/main/01_Basico)
 - Last courses PHP Medium 2021 ->[Courses PHP Medium](https://github.com/LeoSan/DesarrolloWebBackendPHP_PLATZI_2021/tree/main/02_Intermedio)
 - Last courses PHP Avance 2021 ->[Courses PHP Avance](https://github.com/LeoSan/DesarrolloWebBackendPHP_PLATZI_2021/tree/main/03_Avanzado)
 
+> Learning about js 
 
 - Last Courses React - 2021  -> [Courses React Native - Udemy ](https://github.com/LeoSan/CursoUdemyReact) 
 - 🎓  Diploma  -> [see diploma](https://www.udemy.com/certificate/UC-1c9a85c6-cd43-44bc-82b4-9bb179a218dc/)  
