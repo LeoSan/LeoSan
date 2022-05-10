@@ -12,7 +12,7 @@ the immensity of things what can you do with this language (JS) is awesome.
 - 📫 How to reach me: cuenca623@gmail.com
 - 😄 Pronouns: LeoSan
 - ⚡ Fun fact: I am very organized compulsive
-- My Suitcase -> https://leosan.github.io/
+- 💼 My Suitcase -> https://leosan.github.io/
 
 > Learning reforce 
 
