@@ -30,7 +30,7 @@ the immensity of things what can you do with this language (JS) is awesome.
 
 > Learning about js 
 
-- Last Courses JS Professional - 20222  -> [Last Courses JS Professional - 20222](https://github.com/LeoSan/EscuelaJavaScript2021) 
+- Last Courses JS Professional - 2022  -> [Last Courses JS Professional - 2022](https://github.com/LeoSan/EscuelaJavaScript2021) 
 - 🎓  Diploma  -> [see diploma](https://github.com/LeoSan/EscuelaJavaScript2021/blob/main/2022_Diploma-escuela-javascript_PLATZI.pdf)  
 
 
