@@ -14,6 +14,11 @@ the immensity of things what can you do with this language (JS) is awesome.
 - ⚡ Fun fact: I am very organized compulsive
 - 💼 My Suitcase -> https://leosan.github.io/
 
+> Language English 
+- 🎓 Last courses 2021-2022 ->[certificate Beginner A1-A2](https://github.com/LeoSan/CursosHabilidadesBlandas2022/blob/main/04_English/00_Nivel_Basico_A1_B1/certificado/2022_Diploma-beginner-core_PLATZI.pdf)
+
+- 🎓 Actually courses 2021-2022 - Intermediate B1 ->[ Coming soon ](#)
+
 > Learning reforce 
 
 - 🎓 Last courses - 2021 ->[certificate General](https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/blob/main/2021_diploma-fundamentos-programacion_PLATZI.pdf)
