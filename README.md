@@ -35,7 +35,7 @@ the immensity of things what can you do with this language (JS) is awesome.
 
 > Learning about js 
 
-- Last Courses PWA - Progressive Web Applications: From Zero to Expert - 2022 -> [Courses Node Udemy ](https://www.udemy.com/course/aplicaciones-web-progresivas/) 
+- Last Courses PWA - Progressive Web Applications: From Zero to Expert - 2022 -> [Courses PWA](https://www.udemy.com/course/aplicaciones-web-progresivas/) 
 - 🎓  Diploma  -> [see diploma](https://www.udemy.com/certificate/UC-573418ad-265a-4622-8f8a-894fef82151f/)  
 
 - Last Courses JS Professional - 2022  -> [Last Courses JS Professional - 2022](https://github.com/LeoSan/EscuelaJavaScript2021) 
