@@ -35,9 +35,11 @@ the immensity of things what can you do with this language (JS) is awesome.
 
 > Learning about js 
 
+- Last Courses PWA - Progressive Web Applications: From Zero to Expert - 2022 -> [Courses Node Udemy ](https://www.udemy.com/course/aplicaciones-web-progresivas/) 
+- 🎓  Diploma  -> [see diploma](https://www.udemy.com/certificate/UC-573418ad-265a-4622-8f8a-894fef82151f/)  
+
 - Last Courses JS Professional - 2022  -> [Last Courses JS Professional - 2022](https://github.com/LeoSan/EscuelaJavaScript2021) 
 - 🎓  Diploma  -> [see diploma](https://github.com/LeoSan/EscuelaJavaScript2021/blob/main/2022_Diploma-escuela-javascript_PLATZI.pdf)  
-
 
 - Last Courses React - 2021  -> [Courses React Native - Udemy ](https://github.com/LeoSan/CursoUdemyReact) 
 - 🎓  Diploma  -> [see diploma](https://www.udemy.com/certificate/UC-1c9a85c6-cd43-44bc-82b4-9bb179a218dc/)  
@@ -75,6 +77,4 @@ the immensity of things what can you do with this language (JS) is awesome.
   <a target="_blank" rel="noopener noreferrer" href="">
     <img src="https://camo.githubusercontent.com/a90fce30b344c5784adcdb9d12bef52182f247cf74bae737efb7edcd6ff84a6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d677265656e" alt="" data-canonical-src="https://img.shields.io/badge/MongoDB-green" style="max-width:100%;"></a> 
  
-
 </p>
-
