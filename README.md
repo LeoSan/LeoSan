@@ -1,9 +1,14 @@
 Hi everyone 👋, My name is LeonardCuenca ✨ but Call me Leo - I am Developer 
 
 ```
-I specialize in the server side, really like the backend 😃
-currently a computer science student about Node Js, wish 💪 reforce my knowledge 
-the immensity of things what can you do with this language (JS) is awesome. 
+I am thirty – three years old. I'm a computer engineer with 10+ years of experience. I have knowledge in themes like Frontend and develop Backend web.
+
+Actually my work position is full task analytic development senior, my specialty  is PHP, Javascript, React, Python, C#, CSS, experienced in database management as  Mysql, Postgresql, Oracle, SQLServer, MongoDB,  also I have skill in requirement up with the customer and  project monitoring using scrum and waterfall methodologies.
+
+My personal development is to start the master's degree in project management and combine my skills as a developer and as an analyst to achieve a good performance in project development.
+
+I’m from Venezuela but rigth now I’m live in Mexico city for more than five years and I’m mexican citizen since 2019, in my free time I like to visit “magical towns” of Mexico at this days I know 20 towns I really like to travel that is one of my goal travel around the world
+
 ```
 
 - 🔭 I’m currently working on integrate Node.Js with React metodology MERN
