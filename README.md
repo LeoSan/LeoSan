@@ -18,11 +18,17 @@ I’m from Venezuela but rigth now I’m live in Mexico city for more than five 
 - 😄 Pronouns: LeoSan
 - ⚡ Fun fact: I am very organized compulsive
 - 💼 My Suitcase -> https://leosan.github.io/
+- Last Courses **Platzi** Never Stop Learning -> [Platzi Membresi 2021 - Actual](https://platzi.com/p/LEONARDCUENCA/) 
+- 🎓  Last Diploma  -> [see diplomas](https://platzi.com/p/LEONARDCUENCA/)  
+- Last Courses **Udemy** -> [Udemy Membresi 2021 - Actual](https://www.udemy.com/user/leonard-cuenca-roa/) 
+- 🎓  Last Diploma  -> [see diplomas](https://www.udemy.com/user/leonard-cuenca-roa/)  
+
+
 
 > Language English 
-- 🎓 Last courses 2021-2022 ->[certificate Beginner A1-A2](https://github.com/LeoSan/CursosHabilidadesBlandas2022/blob/main/04_English/00_Nivel_Basico_A1_B1/certificado/2022_Diploma-beginner-core_PLATZI.pdf)
+- 🎓 Last courses 2021-2022 ->[certificate Beginner A1-A2](https://platzi.com/p/LEONARDCUENCA/ruta/12050-beginner-core2/diploma/detalle/)
 
-- 🎓 Actually courses 2021-2022 - Intermediate B1 ->[ Coming soon ](#)
+- 🎓 Actually courses 2022-2023 ->[ Intermediate B1 ](https://platzi.com/p/LEONARDCUENCA/ruta/12051-intermediate-core2/diploma/detalle/)
 
 > Learning reforce 
 
@@ -55,15 +61,9 @@ I’m from Venezuela but rigth now I’m live in Mexico city for more than five 
 - Last Courses Node Js - 2021 -> [Courses Node Udemy ](https://github.com/LeoSan/CursoUdemyNodeJs) 
 - 🎓  Diploma  -> [see diploma](https://www.udemy.com/certificate/UC-201ad789-8d75-4ca5-84ec-e88e706ad562/)  
 
-- Last Courses **Platzi** Never Stop Learning -> [Platzi Membresi 2021 - Actual](https://platzi.com/p/LEONARDCUENCA/) 
-- 🎓  Last Diploma  -> [see diplomas](https://platzi.com/p/LEONARDCUENCA/)  
+> Learning about Python
 
-- Last Courses **Udemy** -> [Udemy Membresi 2021 - Actual](https://www.udemy.com/user/leonard-cuenca-roa/) 
-- 🎓  Last Diploma  -> [see diplomas](https://www.udemy.com/user/leonard-cuenca-roa/)  
-
-
-https://platzi.com/p/LEONARDCUENCA/
-
+> Learning about GO 
 
 <p align="center"> 
   <strong>Technologies and Development Tools <g-emoji class="g-emoji" alias="pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26cf.png">⛏</g-emoji></strong> </p>
