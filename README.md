@@ -55,6 +55,14 @@ I’m from Venezuela but rigth now I’m live in Mexico city for more than five 
 - Last Courses Node Js - 2021 -> [Courses Node Udemy ](https://github.com/LeoSan/CursoUdemyNodeJs) 
 - 🎓  Diploma  -> [see diploma](https://www.udemy.com/certificate/UC-201ad789-8d75-4ca5-84ec-e88e706ad562/)  
 
+- Last Courses **Platzi** Never Stop Learning -> [Platzi Membresi 2021 - Actual](https://platzi.com/p/LEONARDCUENCA/) 
+- 🎓  Last Diploma  -> [see diplomas](https://platzi.com/p/LEONARDCUENCA/)  
+
+- Last Courses **Udemy** -> [Udemy Membresi 2021 - Actual](https://www.udemy.com/user/leonard-cuenca-roa/) 
+- 🎓  Last Diploma  -> [see diplomas](https://www.udemy.com/user/leonard-cuenca-roa/)  
+
+
+https://platzi.com/p/LEONARDCUENCA/
 
 
 <p align="center"> 
