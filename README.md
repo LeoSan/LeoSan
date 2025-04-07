@@ -23,7 +23,9 @@ I’m from Venezuela but rigth now I’m live in Mexico city for more than five 
 - Last Courses **Udemy** -> [Udemy Membresi 2021 - Actual](https://www.udemy.com/user/leonard-cuenca-roa/) 
 - 🎓  Last Diploma  -> [see diplomas](https://www.udemy.com/user/leonard-cuenca-roa/)  
 
+> Learning Pyhton
 
+- 🎓 Last courses - 2025 -> [certificate General](https://platzi.com/cursos/python/) -> Current 
 
 > Language English 
 - 🎓 Last courses 2021-2022 ->[certificate Beginner A1-A2](https://platzi.com/p/LEONARDCUENCA/ruta/12050-beginner-core2/diploma/detalle/)
