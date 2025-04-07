@@ -1,11 +1,9 @@
 Hi everyone 👋, My name is LeonardCuenca ✨ but Call me Leo - I am Developer 
 
 ```
-I am thirty – three years old. I'm a computer engineer with 10+ years of experience. I have knowledge in themes like Frontend and develop Backend web.
+A passionate full-stack developer with a commitment to continuous learning and adaptation to the latest technological trends. With over 10 years of experience in developing web applications using technologies such as PHP, Laravel, Javascript, React, Next.js, Node.js, .NET C#, Java, ODT Modeling, Python, Go, as well as SQL and NoSQL databases.
 
-Actually my work position is full task analytic development senior, my specialty  is PHP, Javascript, React, Python, C#, CSS, experienced in database management as  Mysql, Postgresql, Oracle, SQLServer, MongoDB,  also I have skill in requirement up with the customer and  project monitoring using scrum and waterfall methodologies.
-
-My personal development is to start the master's degree in project management and combine my skills as a developer and as an analyst to achieve a good performance in project development.
+Currently pursuing a Master's degree in Analysis and Visualization of Massive Data, which allows me to combine my development experience with emerging skills in data analysis and modeling. I am seeking a position where I can continue to grow professionally and apply my knowledge and technical skills to drive innovation and growth for the company
 
 I’m from Venezuela but rigth now I’m live in Mexico city for more than five years and I’m mexican citizen since 2019, in my free time I like to visit “magical towns” of Mexico at this days I know 20 towns I really like to travel that is one of my goal travel around the world
 
