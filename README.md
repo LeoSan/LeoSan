@@ -16,6 +16,8 @@ I’m from Venezuela but rigth now I’m live in Mexico city for more than five 
 - 😄 Pronouns: LeoSan
 - ⚡ Fun fact: I am very organized compulsive
 - 💼 My Suitcase -> https://leosan.github.io/
+
+  
 - Last Courses **Platzi** Never Stop Learning -> [Platzi Membresi 2021 - Actual](https://platzi.com/p/LEONARDCUENCA/) 
 - 🎓  Last Diploma  -> [see diplomas](https://platzi.com/p/LEONARDCUENCA/)  
 - Last Courses **Udemy** -> [Udemy Membresi 2021 - Actual](https://www.udemy.com/user/leonard-cuenca-roa/) 
@@ -23,7 +25,7 @@ I’m from Venezuela but rigth now I’m live in Mexico city for more than five 
 
 > Learning Pyhton
 
-- 🎓 Last courses - 2025 -> [certificate General](https://platzi.com/cursos/python/) -> Current 
+- 🎓 Last courses - 2024 -> [certificate General](https://platzi.com/cursos/python/) -> Current 
 
 > Language English 
 - 🎓 Last courses 2021-2022 ->[certificate Beginner A1-A2](https://platzi.com/p/LEONARDCUENCA/ruta/12050-beginner-core2/diploma/detalle/)
@@ -60,6 +62,16 @@ I’m from Venezuela but rigth now I’m live in Mexico city for more than five 
 
 - Last Courses Node Js - 2021 -> [Courses Node Udemy ](https://github.com/LeoSan/CursoUdemyNodeJs) 
 - 🎓  Diploma  -> [see diploma](https://www.udemy.com/certificate/UC-201ad789-8d75-4ca5-84ec-e88e706ad562/)  
+
+### 🖥️ **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=PHP&logoColor=white)
+![JS](https://img.shields.io/badge/JS-FFF085?style=for-the-badge&logo=Javascript&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 <h3>📈 Github Stats</h3>
