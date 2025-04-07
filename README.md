@@ -61,3 +61,14 @@ I’m from Venezuela but rigth now I’m live in Mexico city for more than five 
 - Last Courses Node Js - 2021 -> [Courses Node Udemy ](https://github.com/LeoSan/CursoUdemyNodeJs) 
 - 🎓  Diploma  -> [see diploma](https://www.udemy.com/certificate/UC-201ad789-8d75-4ca5-84ec-e88e706ad562/)  
 
+
+<h3>📈 Github Stats</h3>
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=LeoSan&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 97%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSan&hide_border=true&layout=compact" align="left" style="width: 97%" />
+
+</td></tr></table>  
