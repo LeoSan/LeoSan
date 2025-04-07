@@ -10,7 +10,7 @@ I’m from Venezuela but rigth now I’m live in Mexico city for more than five 
 ```
 
 - 🔭 I’m currently working on integrate Node.Js with React metodology MERN
-- 🌱 I’m currently learning React, Raact Native, Laravel 
+- 🌱 I’m currently learning Python, GO, React, React Native, Laravel 
 - 💬 Ask me about ...
 - 📫 How to reach me: cuenca623@gmail.com
 - 😄 Pronouns: LeoSan
