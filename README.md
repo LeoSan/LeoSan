@@ -1,86 +1,90 @@
-Hi everyone 👋, My name is LeonardCuenca ✨ but Call me Leo - I am Developer 
+# ¡Hola! Soy Leonard Cuenca (Leo) ✨
 
-```
-A passionate full-stack developer with a commitment to continuous learning and adaptation to the latest technological trends. With over 10 years of experience in developing web applications using technologies such as PHP, Laravel, Javascript, React, Next.js, Node.js, .NET C#, Java, ODT Modeling, Python, Go, as well as SQL and NoSQL databases.
+<a href="https://www.linkedin.com/in/tu-usuario-linkedin/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leosan.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Mi_Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:cuenca623@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-Currently pursuing a Master's degree in Analysis and Visualization of Massive Data, which allows me to combine my development experience with emerging skills in data analysis and modeling. I am seeking a position where I can continue to grow professionally and apply my knowledge and technical skills to drive innovation and growth for the company
+---
 
-I’m from Venezuela but rigth now I’m live in Mexico city for more than five years and I’m mexican citizen since 2019, in my free time I like to visit “magical towns” of Mexico at this days I know 20 towns I really like to travel that is one of my goal travel around the world
+### Sobre Mí
 
-```
+Soy un **desarrollador Full-Stack** con más de 10 años de experiencia, apasionado por el aprendizaje continuo y las nuevas tecnologías. Actualmente, estoy cursando una Maestría en Análisis y Visualización de Datos Masivos para complementar mi experiencia en desarrollo con habilidades avanzadas en el mundo de los datos.
 
-- 🔭 I’m currently working on integrate Node.Js with React metodology MERN
-- 🌱 I’m currently learning Python, GO, React, React Native, Laravel 
-- 💬 Ask me about ...
-- 📫 How to reach me: cuenca623@gmail.com
-- 😄 Pronouns: LeoSan
-- ⚡ Fun fact: I am very organized compulsive
-- 💼 My Suitcase -> https://leosan.github.io/
+Originario de Venezuela y ciudadano mexicano desde 2019, vivo en la Ciudad de México. En mi tiempo libre, me encanta viajar y conocer los "Pueblos Mágicos" de México. ¡Viajar por el mundo es una de mis grandes metas!
 
-  
-- Last Courses **Platzi** Never Stop Learning -> [Platzi Membresi 2021 - Actual](https://platzi.com/p/LEONARDCUENCA/) 
-- 🎓  Last Diploma  -> [see diplomas](https://platzi.com/p/LEONARDCUENCA/)  
-- Last Courses **Udemy** -> [Udemy Membresi 2021 - Actual](https://www.udemy.com/user/leonard-cuenca-roa/) 
-- 🎓  Last Diploma  -> [see diplomas](https://www.udemy.com/user/leonard-cuenca-roa/)  
+### 🚀 Mi Stack Tecnológico
 
-> Learning Pyhton
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Frontend</strong><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Backend</strong><br>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Bases de Datos</strong><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Otros</strong><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </td>
+  </tr>
+</table>
 
-- 🎓 Last courses - 2024 -> [certificate General](https://platzi.com/cursos/python/) -> Current 
+### 🌱 Mis Objetivos Actuales
 
-> Language English 
-- 🎓 Last courses 2021-2022 ->[certificate Beginner A1-A2](https://platzi.com/p/LEONARDCUENCA/ruta/12050-beginner-core2/diploma/detalle/)
+* 🔭 **Actualmente trabajando en:** Integrar el stack MERN (MongoDB, Express, React, Node.js) en proyectos personales.
+* 🌱 **Actualmente aprendiendo:** Profundizando en Python, Go y React Native.
+* 💬 **Pregúntame sobre:** Desarrollo web con PHP, Laravel, JavaScript y mejores prácticas en bases de datos relacionales.
 
-- 🎓 Actually courses 2022-2023 ->[ Intermediate B1 ](https://platzi.com/p/LEONARDCUENCA/ruta/12051-intermediate-core2/diploma/detalle/)
+### 📚 Mi Formación Continua
 
-> Learning reforce 
+<p>
+  <a href="https://platzi.com/p/LEONARDCUENCA/" target="_blank">
+    <img src="https://img.shields.io/badge/Platzi_Profile-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi"/>
+  </a>
+  <a href="https://www.udemy.com/user/leonard-cuenca-roa/" target="_blank">
+    <img src="https://img.shields.io/badge/Udemy_Profile-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy"/>
+  </a>
+</p>
 
-- 🎓 Last courses - 2021 ->[certificate General](https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/blob/main/2021_diploma-fundamentos-programacion_PLATZI.pdf)
-- Last courses Basic 2021 ->[Courses Basic](https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/tree/main/01_Basico)
-- Last courses Medium 2021 ->[Courses Medium](https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/tree/main/02_Intermedio)
-- Last courses Avance 2021 ->[Courses Avance](https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/tree/main/03_Avanzado)
+---
 
-> Learning about PHP
+### 📈 Mis Estadísticas en GitHub
 
-- 🎓 Last courses PHP - 2021 ->[certificate PHP  ](https://github.com/LeoSan/DesarrolloWebBackendPHP_PLATZI_2021)
-- Last courses PHP Basic 2021 ->[Courses PHP Basic](https://github.com/LeoSan/DesarrolloWebBackendPHP_PLATZI_2021/tree/main/01_Basico)
-- Last courses PHP Medium 2021 ->[Courses PHP Medium](https://github.com/LeoSan/DesarrolloWebBackendPHP_PLATZI_2021/tree/main/02_Intermedio)
-- Last courses PHP Avance 2021 ->[Courses PHP Avance](https://github.com/LeoSan/DesarrolloWebBackendPHP_PLATZI_2021/tree/main/03_Avanzado)
-
-> Learning about js 
-
-- Last Courses PWA - Progressive Web Applications: From Zero to Expert - 2022 -> [Courses PWA](https://www.udemy.com/course/aplicaciones-web-progresivas/) 
-- 🎓  Diploma  -> [see diploma](https://www.udemy.com/certificate/UC-573418ad-265a-4622-8f8a-894fef82151f/)  
-
-- Last Courses JS Professional - 2022  -> [Last Courses JS Professional - 2022](https://github.com/LeoSan/EscuelaJavaScript2021) 
-- 🎓  Diploma  -> [see diploma](https://github.com/LeoSan/EscuelaJavaScript2021/blob/main/2022_Diploma-escuela-javascript_PLATZI.pdf)  
-
-- Last Courses React - 2021  -> [Courses React Native - Udemy ](https://github.com/LeoSan/CursoUdemyReact) 
-- 🎓  Diploma  -> [see diploma](https://www.udemy.com/certificate/UC-1c9a85c6-cd43-44bc-82b4-9bb179a218dc/)  
-
-- Lasr Courses React Native - 2021 -> [Courses  Native](https://github.com/LeoSan/CursoUdemyReactNative) 
-- 🎓  Diploma  -> [see diploma](https://www.udemy.com/certificate/UC-daac603b-6c34-4d56-a39b-e8eae3e4cb0b/)  
-
-- Last Courses Node Js - 2021 -> [Courses Node Udemy ](https://github.com/LeoSan/CursoUdemyNodeJs) 
-- 🎓  Diploma  -> [see diploma](https://www.udemy.com/certificate/UC-201ad789-8d75-4ca5-84ec-e88e706ad562/)  
-
-### 🖥️ **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=PHP&logoColor=white)
-![JS](https://img.shields.io/badge/JS-FFF085?style=for-the-badge&logo=Javascript&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-<h3>📈 Github Stats</h3>
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LeoSan&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 97%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSan&hide_border=true&layout=compact" align="left" style="width: 97%" />
-
-</td></tr></table>  
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=LeoSan&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSan&hide_border=true&layout=compact&theme=dracula" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
