@@ -23,6 +23,7 @@ Soy un **desarrollador Full-Stack** con más de una década de experiencia const
 - 🔭 **Actualmente trabajando y mejorando:** Proyectos con stack MERN.
 - 🔭 **Actualmente trabajando y mejorando:** Proyectos con Python DJANGO.
 - 🔭 **Actualmente trabajando y mejorando:** Proyectos con PHP LARAVEL.
+- 🔭 **Actualmente Estudiando Maestria Big Data :** Universidad Rioja de España. UNIR 
 - 🌱 **Aprendiendo:** Python, PHP, React.
 
 ### 🛠️ Tecnologías y Herramientas
@@ -62,14 +63,21 @@ Soy un **desarrollador Full-Stack** con más de una década de experiencia const
 <details>
   <summary><strong>🐘 PHP</strong></summary>
   <ul>
-    <li>🎓 <strong>Platzi - Desarrollo Backend con PHP (2021):</strong> <a href="https://github.com/LeoSan/DesarrolloWebBackendPHP_PLATZI_2021">Ver proyecto y certificado</a></li>
+    <li>🎓 <strong>Platzi - Desarrollo Backend con PHP (2021 - Actual):</strong> <a href="https://github.com/LeoSan/DesarrolloWebBackendPHP_PLATZI_2021">Ver proyecto y certificado</a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong> foundational skills</strong></summary>
+  <summary><strong> Foundational skills</strong></summary>
   <ul>
-    <li>🎓 <strong>Platzi - Fundamentos de Programación (2021):</strong> <a href="https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/blob/main/2021_diploma-fundamentos-programacion_PLATZI.pdf">Ver diploma</a></li>
+    <li>🎓 <strong>Platzi - Fundamentos de Programación (2021- Actual):</strong> <a href="https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/blob/main/2021_diploma-fundamentos-programacion_PLATZI.pdf">Ver diploma</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong> Pensum Maestria BIG DATA </strong></summary>
+  <ul>
+    <li>🎓 <strong> UNIR (2024 - Actual):</strong> <a href="https://github.com/LeoSan/MaestriaAnalisisDatosBigData_UNIR_2024"> Estudios</a></li>
   </ul>
 </details>
 
