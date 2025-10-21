@@ -16,15 +16,15 @@
 
 ### 👨‍💻 Sobre Mí
 
-Soy un **desarrollador Full-Stack** con más de una década de experiencia construyendo soluciones web robustas y escalables. Me apasiona mantenerme actualizado con las últimas tendencias tecnológicas y actualmente estoy ampliando mis habilidades con una **Maestría en Análisis y Visualización de Datos Masivos**. Mi objetivo es combinar mi profundo conocimiento en desarrollo con el poder de los datos para crear productos innovadores.
+I'm a **Full-Stack Developer** with over a decade of experience building robust and scalable web solutions. I'm passionate about staying up-to-date with the latest technological trends and am currently expanding my skills with a **Master's Degree in Big Data Analysis and Visualization**. My goal is to combine my deep development knowledge with the power of data to create innovative products.
 
-- 🌍 Originario de Venezuela, ciudadano mexicano y residente en CDMX.
-- ✈️ En mi tiempo libre, exploro los "Pueblos Mágicos" de México. ¡Ya conozco más de 20!
-- 🔭 **Actualmente trabajando y mejorando:** Proyectos con stack MERN.
-- 🔭 **Actualmente trabajando y mejorando:** Proyectos con Python DJANGO.
-- 🔭 **Actualmente trabajando y mejorando:** Proyectos con PHP LARAVEL.
-- 🔭 **Actualmente Estudiando Maestria Big Data :** Universidad Rioja de España. UNIR 
-- 🌱 **Aprendiendo:** Python, PHP, React.
+- 🌍 Originally from Venezuela, a Mexican citizen living in Mexico City.
+- ✈️ In my free time, I explore Mexico's "Pueblos Mágicos" (Magical Towns). I've already visited more than 20!
+- 🔭 **Currently working and improving:** Projects with the MERN stack.
+- 🔭 **Currently working and improving:** Projects with Python and DJANGO.
+- 🔭 **Currently working and improving:** Projects with PHP and LARAVEL.
+- 🔭 **Currently studying a Master's degree in Big Data:** Universidad Rioja, Spain. UNIR
+- 🌱 **Learning:** Python, PHP, React.
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -40,7 +40,7 @@ Soy un **desarrollador Full-Stack** con más de una década de experiencia const
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### 🎓 Mi Viaje de Aprendizaje Continuo
+### 🎓 My Continuous Learning Journey
 
 <details>
   <summary><strong>🐍 Python</strong></summary>
@@ -63,23 +63,27 @@ Soy un **desarrollador Full-Stack** con más de una década de experiencia const
 <details>
   <summary><strong>🐘 PHP</strong></summary>
   <ul>
-    <li>🎓 <strong>Platzi - Desarrollo Backend con PHP (2021 - Actual):</strong> <a href="https://github.com/LeoSan/DesarrolloWebBackendPHP_PLATZI_2021">Ver proyecto y certificado</a></li>
+    <li>🎓 <strong>Platzi - Backend Development with PHP (2021 - Actual):</strong> <a href="https://github.com/LeoSan/DesarrolloWebBackendPHP_PLATZI_2021">Ver proyecto y certificado</a></li>
   </ul>
 </details>
 
 <details>
   <summary><strong> Foundational skills</strong></summary>
   <ul>
-    <li>🎓 <strong>Platzi - Fundamentos de Programación (2021- Actual):</strong> <a href="https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/blob/main/2021_diploma-fundamentos-programacion_PLATZI.pdf">Ver diploma</a></li>
+    <li>🎓 <strong>Platzi - Programming Fundamentals (2021- Actual):</strong> <a href="https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/blob/main/2021_diploma-fundamentos-programacion_PLATZI.pdf">Ver diploma</a></li>
   </ul>
 </details>
 
 <details>
   <summary><strong> Pensum Maestria BIG DATA </strong></summary>
   <ul>
-    <li>🎓 <strong> UNIR (2024 - Actual):</strong> <a href="https://github.com/LeoSan/MaestriaAnalisisDatosBigData_UNIR_2024"> Estudios</a></li>
+    <li>🎓 <strong> UNIR (2024 - Current):</strong> <a href="https://github.com/LeoSan/MaestriaAnalisisDatosBigData_UNIR_2024"> Estudios</a></li>
   </ul>
 </details>
+
+---
+
+Look for me in [Fiverr](https://es.fiverr.com/leosancr/be-your-senior-full-stack-developer-for-php-and-python)
 
 ---
 
