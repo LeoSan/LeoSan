@@ -45,7 +45,7 @@ I'm a **Full-Stack Developer** with over a decade of experience building robust 
 <details>
   <summary><strong>🐍 Python</strong></summary>
   <ul>
-    <li>🎓 <strong>Platzi - Certificado General (2024 - Cursando):</strong> <a href="https://platzi.com/cursos/python/">Ver curso</a></li>
+    <li>🎓 <strong>Platzi - Certificado General (2024 - Cursando):</strong> <a href="https://github.com/LeoSan/CursosBackendPython">Ver curso</a></li>
   </ul>
 </details>
 
