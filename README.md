@@ -52,6 +52,7 @@ I'm a **Full-Stack Developer** with over a decade of experience building robust 
 <details>
   <summary><strong>🌐 JavaScript (Frontend & Backend)</strong></summary>
   <ul>
+    <li>🎓 <strong>My Repo:</strong> <a href="https://github.com/LeoSan/CursoBackendJavaScript">Repositorio</a></li>
     <li>🎓 <strong>Platzi - Escuela de JavaScript (2022):</strong> <a href="https://github.com/LeoSan/EscuelaJavaScript2021/blob/main/2022_Diploma-escuela-javascript_PLATZI.pdf">Ver diploma</a></li>
     <li>🎓 <strong>Udemy - Progressive Web Apps (PWA) (2022):</strong> <a href="https://www.udemy.com/certificate/UC-573418ad-265a-4622-8f8a-894fef82151f/">Ver diploma</a></li>
     <li>🎓 <strong>Udemy - React (2021):</strong> <a href="https://www.udemy.com/certificate/UC-1c9a85c6-cd43-44bc-82b4-9bb179a218dc/">Ver diploma</a></li>
@@ -63,6 +64,7 @@ I'm a **Full-Stack Developer** with over a decade of experience building robust 
 <details>
   <summary><strong>🐘 PHP</strong></summary>
   <ul>
+    <li>🎓 <strong>My Repo:</strong> <a href="https://github.com/LeoSan/CursosBackendPHP">Repositorio</a></li>
     <li>🎓 <strong>Platzi - Backend Development with PHP (2021 - Actual):</strong> <a href="https://github.com/LeoSan/DesarrolloWebBackendPHP_PLATZI_2021">Ver proyecto y certificado</a></li>
   </ul>
 </details>
@@ -70,6 +72,7 @@ I'm a **Full-Stack Developer** with over a decade of experience building robust 
 <details>
   <summary><strong> Foundational skills</strong></summary>
   <ul>
+    <li>🎓 <strong>My Repo:</strong> <a href="https://github.com/LeoSan/CursosHabilidadesBlandas2022">Repositorio</a></li>
     <li>🎓 <strong>Platzi - Programming Fundamentals (2021- Actual):</strong> <a href="https://github.com/LeoSan/CarreraFundamentosProgramacion_Platzi_2021/blob/main/2021_diploma-fundamentos-programacion_PLATZI.pdf">Ver diploma</a></li>
   </ul>
 </details>
