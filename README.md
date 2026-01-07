@@ -1,4 +1,4 @@
-# ¡Hola, soy Leonard Cuenca (Leo)! 👋
+# ¡Helo There, I am Leo! 👋
 
 <p align="center">
   <a href="https://leosan.github.io/" target="_blank">
